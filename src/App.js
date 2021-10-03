@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./components/Home/Home";
 import Services from "./components/Services/Services";
 import Error from "./components/Error/Error";
@@ -11,7 +11,6 @@ import About from "./components/About/About";
 function App() {
   return (
     <div className="App">
-      <h1>Test</h1>
       <Router>
         <Header></Header>
         <Switch>

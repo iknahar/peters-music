@@ -1,0 +1,14 @@
+.background {
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+}
+.large {
+  font-size: 64px;
+}
+.herotext {
+  width: 50vw;
+  padding: 70px;
+  color: aliceblue;
+  line-height: 160%;
+}
