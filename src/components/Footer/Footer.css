@@ -1,0 +1,14 @@
+.foot {
+  padding: 20px 50px 20px 50px;
+  background-color: rgb(27, 27, 27);
+  color: rgba(240, 248, 255, 0.836);
+}
+.footerP {
+  width: 300px;
+  text-align: center;
+}
+
+.right {
+  letter-spacing: 18px;
+  text-align: center;
+}
