@@ -1,0 +1,23 @@
+.cardHolder {
+  background-color: rgb(41, 41, 41);
+  padding: 15px;
+}
+
+.card-body {
+  color: rgb(189, 189, 189);
+  background-color: rgb(36, 36, 36);
+}
+
+.cardStyle {
+  width: 24rem;
+  height: 23rem;
+  margin: 6px;
+  overflow: hidden;
+}
+
+.description {
+  line-height: 110%;
+  font-size: 14px;
+  height: 4rem;
+  overflow: hidden;
+}
