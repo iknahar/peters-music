@@ -21,11 +21,6 @@ const Contact = () => {
                 <Form.Label className="formText">Email</Form.Label>
                 <Form.Control type="email" placeholder="Enter email" />
               </Form.Group>
-
-              <Form.Group as={Col} controlId="formGridPassword">
-                <Form.Label className="formText">Password</Form.Label>
-                <Form.Control type="password" placeholder="Password" />
-              </Form.Group>
             </Row>
 
             <Form.Group className="mb-4" controlId="formGridAddress1">
@@ -52,10 +47,6 @@ const Contact = () => {
                 </Form.Select>
               </Form.Group>
 
-              <Form.Group as={Col} controlId="formGridZip">
-                <Form.Label className="formText">Zip</Form.Label>
-                <Form.Control />
-              </Form.Group>
             </Row>
 
             <Form.Group className="mb-4" id="formGridCheckbox">

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6150723be8013c8185c34c6e",
+    "name": "Learn To Play Piano in 30 Days",
+    "img": "https://i.ibb.co/0hxz8c2/Frame-1.jpg",
+    "description": "Learning with flowkey is easy and fun. Practice notes and chords interactively and receive instant feedback. All you need is the flowkey app and your piano or keyboard.",
+    "price": 34000
+  },
+  {
+    "id": "6150734be50ef9b20b7c749a",
+    "name": "Rock Dj Jamming",
+    "description": "Phrasing Is So Important When Mixing! In this DJ tutorial taken Beginner DJ Course you will learn how to layer songs together in phrase. This instantly improves any transition as the two songs change together. ",
+    "img": "https://i.ibb.co/QYwGky3/Frame-2.jpg",
+    "price": 21000
+  },
+  {
+    "id": "6150723b3247e63bc6fa2de4",
+    "name": "Guiter Tutorial for Beginner",
+    "description": "Open chords are one of the first skills a beginner guitarist will learn. Master just three, and you can play a whole host of popular songs. Aside from attending guitar lessons, following a chord chart is one of the best ways to get acquainted with the basics.",
+    "img": "https://i.ibb.co/1RTSR9B/Frame-3.jpg",
+    "price": 31000
+  },
+  {
+    "id": "6150723b0c134085adfe8312",
+    "name": "Music Recording",
+    "description": "Technicians deal with controlling and changing the different sounds (audio signals) by altering volume, pitch, sound effects, and equalization. Equalization deals with modifying sound frequencies to fit the need – think treble and bass.",
+    "img": "https://i.ibb.co/j3j1DJK/Frame-4.jpg",
+    "price": 32000
+  }
+]
