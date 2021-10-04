@@ -1,5 +1,15 @@
 # Peter's Music School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Link: https://peters-music-school.netlify.app/
 
-## Available Scripts
+## Site Contains
+-Home
+-About
+-Services
+-Contact Us
+
+# Technology Stack
+-React
+-Router
+-JSX
+-React Bootstrap
