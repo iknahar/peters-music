@@ -22,29 +22,21 @@
 }
 
 .btnHero {
-  background: #3498db;
-  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-  background-image: -o-linear-gradient(top, #3498db, #2980b9);
-  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  background: #EAC107;
+  background-image: linear-gradient(to bottom, #EAC107, #fffb00);
   border-radius: 28px;
-  box-shadow: 1px 8px 14px #787786;
-  color: #ffffff;
+  color: #000000;
   font-size: 16px;
+  font-weight: bold;
   padding: 12px 20px 12px 20px;
   text-decoration: none;
   outline: none;
   border: none;
+  width: 250px;
 }
 
 .btnHero:hover {
-  background: #3cb0fd;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  background: #ffd900;
   text-decoration: none;
   outline: none;
   border: none;

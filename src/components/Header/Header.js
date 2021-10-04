@@ -8,8 +8,8 @@ const Header = () => {
       margin: "0 20px",
     };
     const activeSty = {
-      color: "skyblue",
-        fontWeight: "bold",
+      color: "#FFC107",
+      fontWeight: "bold",
     };
   return (
     <div className="header d-flex align-items-center bg-dark p-3 justify-content-between px-5">
