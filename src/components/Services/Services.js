@@ -12,8 +12,8 @@ const Services = () => {
 
   return (
     <div className="cardHolder">
-      <h2 className="text-center text-white">Our Services</h2>
-      <hr className="text-center text-white" />
+      <h2 className="text-center text-warning">Our Services</h2>
+      <hr className="text-center text-white w-75 mx-auto" />
       <div className="d-flex flex-wrap justify-content-around ">
         {services.map((service) => {
           return (
