@@ -13,7 +13,7 @@ const About = () => {
         <hr className="text-center text-white w-75 mx-auto" />
 
         <p className="m-0 text-white p-5 w-75 mx-auto">
-          Our music school or conservatoire teaches music in all its aspects. It
+          Our music school is conservatoire teaches music in all its aspects. It
           may be called a college of music, or academy of music or conservatory
           (American English) or a conservatorium (Australian English). In 1905,
           the Institute of Musical Art, Juilliard's predecessor institution, was
