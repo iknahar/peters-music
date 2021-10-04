@@ -1,14 +1,14 @@
 import React from "react";
 import Hero from "../Hero/Hero";
 import HomeServices from "../HomeServices/HomeServices";
-import OurTeam from "../OurTeam/OurTeam";
+import Partners from "../Partners/Partners";
 
 const Home = () => {
   return (
     <div>
       <Hero></Hero>
       <HomeServices></HomeServices>
-      <OurTeam></OurTeam>
+      <Partners></Partners>
     </div>
   );
 };

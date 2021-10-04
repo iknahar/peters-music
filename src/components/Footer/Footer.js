@@ -5,10 +5,8 @@ const Footer = () => {
     <div className="foot px-5">
       <div className="d-flex align-items-center justify-content-between">
         <div className="footerP">
-          <h4>Peter's Music School</h4>
-          <p>
-            Address: Dhaka, Bangladesh, Bottola, Music School Goli
-          </p>
+          <h4 className="text-warning">Peter's Music School</h4>
+          <p>Address: Dhaka, Bangladesh, Bottola, Music School Goli</p>
         </div>
 
         <div className="footerP">
