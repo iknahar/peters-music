@@ -11,3 +11,13 @@
 .home-card-image {
   width: 350px;
 }
+
+@media (max-width: 768px) { 
+
+ 
+.homeCard {
+  width: 23rem;
+  height: 20rem;
+  overflow: hidden;
+}
+ }

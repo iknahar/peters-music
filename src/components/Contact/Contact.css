@@ -5,3 +5,9 @@
 .formText {
   color: azure;
 }
+
+@media (min-width: 576px) {
+  .contactForm {
+    width: 90vw;
+  }
+}

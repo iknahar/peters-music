@@ -1,4 +1,5 @@
 import React from "react";
+import './Partners.css'
 import partner1 from "../../images/partners/partners1.jpg";
 import partner2 from "../../images/partners/partners2.jpg";
 import partner3 from "../../images/partners/partners3.jpg";
@@ -11,12 +12,12 @@ const Partners = () => {
       <h2 className="text-center text-warning">Our Partners</h2>
       <hr className="text-center text-white w-75 mx-auto" />
 
-      <div className="partnerContain d-flex justify-content-between mx-auto">
-        <img className="partner m-4 rounded-circle" src={partner1} alt="" />
-        <img className="partner m-4 rounded-circle" src={partner2} alt="" />
-        <img className="partner m-4 rounded-circle" src={partner3} alt="" />
-        <img className="partner m-4 rounded-circle" src={partner4} alt="" />
-        <img className="partner m-4 rounded-circle" src={partner5} alt="" />
+      <div className="partnerContain d-flex justify-content-between mx-auto flex-wrap">
+        <img className="partner m-2 rounded-circle" src={partner2} alt="" />
+        <img className="partner m-2 rounded-circle" src={partner1} alt="" />
+        <img className="partner m-2 rounded-circle" src={partner3} alt="" />
+        <img className="partner m-2 rounded-circle" src={partner4} alt="" />
+        <img className="partner m-2 rounded-circle" src={partner5} alt="" />
       </div>
     </div>
   );
