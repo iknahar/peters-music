@@ -6,8 +6,8 @@
   color: azure;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
   .contactForm {
-    width: 90vw;
+    max-width: 460px;
   }
 }
